@@ -1,3 +1,3 @@
-# Soduku-Game
+# Sudoku-Game
 
-A Simple Soduku Game built in Python
+A Simple Sudoku Game built in Python
